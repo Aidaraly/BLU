@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/need4"
+    >
+
+
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда нужна любовь       "
+        android:id="@+id/LoveU2"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда нужна поддержка        "
+        android:layout_below="@+id/LoveU2"
+        android:id="@+id/LoveU3"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда тебе грутно        "
+        android:layout_below="@+id/LoveU3"
+        android:id="@+id/LoveU4"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда неуверена в себе       "
+        android:layout_below="@+id/LoveU4"
+        android:id="@+id/LoveU5"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда не можешь уснуть       "
+        android:layout_below="@+id/LoveU5"
+        android:id="@+id/LoveU6"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда мы поссорились     "
+        android:layout_below="@+id/LoveU6"
+        android:id="@+id/LoveU7"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда все бесят      "
+        android:layout_below="@+id/LoveU7"
+        android:id="@+id/LoveU8"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда устала     "
+        android:layout_below="@+id/LoveU8"
+        android:id="@+id/LoveU9"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Откой когда соскучилась     "
+        android:layout_below="@+id/LoveU9"
+        android:id="@+id/LoveU10"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="      Открой когда все это не подошло...    "
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/LoveU10"
+        android:id="@+id/LoveU11"
+        android:background="@drawable/roundbtn"
+        android:textAllCaps="false"
+        />
+
+</RelativeLayout>

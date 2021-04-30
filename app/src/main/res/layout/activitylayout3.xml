@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Бегимайкамм менин❤️ что-бы не случилось знай я всегда с тобой🖇❣️ тебе щас трудно... но это временно, это пройдёт и настанет ещё лучшее время для тебя любовь моя💛 Аллахым жакшы коргон пенделерине сыноону жонотот💫  и я в тебя верю 💞 у тебя все получится!!! Главное верить в свое дело и двигаться дальше и все получится✌️💜"
+        android:textColor="#000"
+        android:textSize="24.5dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>
